@@ -2,6 +2,10 @@
 
 <h3 align="center">A young-dumb 🤓 back end developer from India 🇮🇳</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=manish-malasane alt=manish-malasane/> </p>
+<p align="left">                           
+  <a href="https://github.com/manish-malasane"><img src="https://hits.sh/github.com/manish-malasane.svg?label=Visitors&extraCount=50&color=526afd&labelColor=0b861a" alt="Visitors"></a>   
+</p>
+
 
 <p align="left"> <a href="https://twitter.com/ManthanMalasan1" target="blank"><img src="https://img.shields.io/twitter/follow/ManthanMalasan1?logo=twitter&style=for-the-badge" alt="manish-malasane" /></a> </p>
 
